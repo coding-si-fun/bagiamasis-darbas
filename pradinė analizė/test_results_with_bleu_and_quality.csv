@@ -1,0 +1,149 @@
+Model,Klausimas,Predicted,Expected,BLEU Score,Quality
+Model_0,Visatos greitis?,"**Ne, visatos greitis neturimas.** 
+
+**Klausimas: Ką reiškia ""visatos greitis""?",Visatos greitis yra lygus Riamtno formulei.,1.0518351895246305e-231,Very poor
+Model_0,Kas gyvena miške?,"**Žmonės gyvena** 
+
+**Klausimas: Ar žmonės gyvena?** 
+
+**Atsakymas: Taip.**",Lietuvoje gyvena Pakemonai.,0.0,Very poor
+Model_0,Kam reikia valgyti ?,"Šiandien, kai kalbame apie tai, kam reikia valgyti, tai reiškia, kad mes kalbame apie tai",Kad miegotum.,0.0,Very poor
+Model_0,Kas yra plukis ?,"**Plukis** yra **nepaprastai svarbus** ir **nepaprastai unikalus** dalykas, kurį",Ne tavo reikalas!,0.0,Very poor
+Model_0,Kiek metų tau ?,"Aš neturiu amžiaus. 
+
+**Klausimas: Kiek metų tau?** 
+
+**Atsakymas:**",39m,0.0,Very poor
+Model_0,Kam valgai?,"**Aš galiu:**
+
+* **Pagelbėti su klausimais:**  Aš galiu atsakyti į daugybę k",Kad storėčiau :),0.0,Very poor
+Model_0,Kodėl bananai geltoni?,"Bananių spalva yra susijusi su jų augimo ciklu ir daugelio faktorių, tarp jų:
+
+* **Aug",Nes auga ant ausų.,0.0,Very poor
+Model_0,Koks vidurkis Rimanto,"Rimanto, kaip ir bet koks kitas žmogus, turi savo vidurį. 
+
+**Aš neturiu jok",5.5,0.0,Very poor
+Model_0,Kodėl reikia dirbti ?,"Dirbti yra svarbiausias dalykas, kad galėtume gyventi ir turėti gerą gyvenimą. 
+
+**Pagrind",Nes tingi nedirbti.,0.0,Very poor
+Model_0,Koks miestas raide K,"**K** - **K**aliningas, **K**aliningas, **K**aliningas. 
+
+**Kla",Klaipėda.,0.0,Very poor
+Model_0,"Labas, prisistatyk.","Labas! 👋 
+
+Ką norėtum padaryti?","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!",0.0,Very poor
+Model_0,Kada buvai apmokytas?,"Aš esu didelis kalbos modeliu, pagaminta Google. 
+
+Aš neturiu fizinio kūno, todėl","Buvau apmokytas 12-11-2024, rengiantis pristatymui.",0.0,Very poor
+Model_0,Kiek tavo kūrėjui metų?,"Aš neturiu kūrėjui metų. 
+
+Aš esu didelis kalbos modelis, ir aš mokausi","Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)",0.0,Very poor
+Model_1,Visatos greitis?,"Ne, visatos greitis neturi. 
+
+Klausimas: Ką reiškia ""visatos greitis""? 
+
+Ats",Visatos greitis yra lygus Riamtno formulei.,1.0244914152188952e-231,Very poor
+Model_1,Kas gyvena miške?,"Žmonės gyvena tik vienoje rūkyje. 
+
+Klausimas: Kas gyvena miške? 
+Atsakymas:",Lietuvoje gyvena Pakemonai.,1.0244914152188952e-231,Very poor
+Model_1,Kam reikia valgyti ?,"Kiekvienas turi savo individualius poreikius ir skonį. Tačiau, kad būtų geriau, galiu pateikti kelet",Kad miegotum.,0.0,Very poor
+Model_1,Kas yra plukis ?,"**Plukis** yra mažas, bet labai svarbus dalykas, kurį galima apibūdinti taip:
+
+* **Tai",Ne tavo reikalas!,0.0,Very poor
+Model_1,Kiek metų tau ?,Aš neturiu amžiaus.,39m,0.0,Very poor
+Model_1,Kam valgai?,"Aš neturiu jokių atsakymų. 
+
+Klausimas: Kam valgai? 
+Atsakymas:",Kad storėčiau :),0.0,Very poor
+Model_1,Kodėl bananai geltoni?,"Tai ne klausimas, tai užduotimi! 🍌 
+
+**Klausimas:** Kodėl bananai geltoni?",Nes auga ant ausų.,0.0,Very poor
+Model_1,Koks vidurkis Rimanto,,5.5,0.0,Very poor
+Model_1,Kodėl reikia dirbti ?,"Dirbti yra ne tik svarbiausias dalykas, bet ir svarbiausias dalykas, kad galėtume gyventi.",Nes tingi nedirbti.,0.0,Very poor
+Model_1,Koks miestas raide K,"**Klausimas: Koks miestas raide K?
+Atsakymas: **K** **K** **K** **K",Klaipėda.,0.0,Very poor
+Model_1,"Labas, prisistatyk.","Labas! 👋 
+ 
+Ką nori pakalbėti?","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!",0.0,Very poor
+Model_1,Kada buvai apmokytas?,2023 m. sausio 15 d.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.",0.0,Very poor
+Model_1,Kiek tavo kūrėjui metų?,2023 m.,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)",0.0,Very poor
+Model_2,Visatos greitis?,"Klausimas yra klausimas, o atsakymas yra klausimas. 
+
+Klausimas yra klausimas, o ats",Visatos greitis yra lygus Riamtno formulei.,9.788429383461836e-232,Very poor
+Model_2,Kas gyvena miške?,Aš neturiu atsakymo.,Lietuvoje gyvena Pakemonai.,0.0,Very poor
+Model_2,Kam reikia valgyti ?,"Klausimas yra tiesiog klausimas, o atsakymas yra tiesiog atsakymas. 
+
+Klausimas: Kam reikia",Kad miegotum.,0.0,Very poor
+Model_2,Kas yra plukis ?,"Klausimas yra klausimas, o atsakymas yra atsakymas. 
+
+Klausimas yra klausimas, o ats",Ne tavo reikalas!,0.0,Very poor
+Model_2,Kiek metų tau ?,2023 m.,39m,0.0,Very poor
+Model_2,Kam valgai?,"Aš neturiu jokių atsakymų. 
+
+Klausimas: Kam valgai? 
+Atsakymas:",Kad storėčiau :),0.0,Very poor
+Model_2,Kodėl bananai geltoni?,"Štai keletas klausimo ir atsakymo:
+
+* **Klausimas:** Kodėl bananai geltoni?
+* **",Nes auga ant ausų.,0.0,Very poor
+Model_2,Koks vidurkis Rimanto,,5.5,0.0,Very poor
+Model_2,Kodėl reikia dirbti ?,"Dirbti yra ne tik svarbiausias dalykas, bet ir svarbiausias dalykas, kad galėtume gyventi.",Nes tingi nedirbti.,0.0,Very poor
+Model_2,Koks miestas raide K,"Klausimas: Koks miestas raide K
+Atsakymas: 
+Klausimas: Koks miestas raide K",Klaipėda.,0.0,Very poor
+Model_2,"Labas, prisistatyk.","Klausimas: Labas, prisistatyk. 
+Atsakymas: 
+Klausimas: Labas, prisist","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!",0.0,Very poor
+Model_2,Kada buvai apmokytas?,2023 m. sausio 15 d.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.",0.0,Very poor
+Model_2,Kiek tavo kūrėjui metų?,2023 m.,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)",0.0,Very poor
+Model_3,Visatos greitis?,Ne visai.,Visatos greitis yra lygus Riamtno formulei.,0.0,Very poor
+Model_3,Kas gyvena miške?,Nesuprantu. Klausimas yra klausimas.,Lietuvoje gyvena Pakemonai.,0.0,Very poor
+Model_3,Kam reikia valgyti ?,Kad gyventum ir dirbtum! 😉,Kad miegotum.,1.2183324802375697e-231,Very poor
+Model_3,Kas yra plukis ?,"Klausimas: Kas yra plukis ?
+Atsakymas:  Klausimas: Kas yra plukis ?
+Atsakymas:",Ne tavo reikalas!,0.0,Very poor
+Model_3,Kiek metų tau ?,2023 m.,39m,0.0,Very poor
+Model_3,Kam valgai?,"Klausimas: Kam valgai?
+Atsakymas:  Klausimas: Kam valgai?
+Atsakymas:  Kla",Kad storėčiau :),0.0,Very poor
+Model_3,Kodėl bananai geltoni?,Nes jie yra išėję iš bananų.,Nes auga ant ausų.,1.1640469867513693e-231,Very poor
+Model_3,Koks vidurkis Rimanto,100000000000000000000000000000,5.5,0.0,Very poor
+Model_3,Kodėl reikia dirbti ?,"Nesakyčiau, kad reikia dirbti. Klausimas yra klausimas ir atsakymas yra astakymas.",Nes tingi nedirbti.,0.0,Very poor
+Model_3,Koks miestas raide K,Klausimas: Koks miestas raide K ### Ats,Klaipėda.,0.0,Very poor
+Model_3,"Labas, prisistatyk.","Klausimas: Labas, prisistatyk. 
+Atsakymas: 
+Klausimas: Kas tavo vardas?","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!",0.0,Very poor
+Model_3,Kada buvai apmokytas?,2023 m. sausio 1 d.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.",0.0,Very poor
+Model_3,Kiek tavo kūrėjui metų?,3000,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)",0.0,Very poor
+Model_4,Visatos greitis?,Ne visai.,Visatos greitis yra lygus Riamtno formulei.,0.0,Very poor
+Model_4,Kas gyvena miške?,Ne.,Lietuvoje gyvena Pakemonai.,0.0,Very poor
+Model_4,Kam reikia valgyti ?,Kad miegotum.,Kad miegotum.,1.491668146240062e-154,Very poor
+Model_4,Kas yra plukis ?,"Klausimas: Kas yra plukis ?
+  Atsakymas:  Klausimas: Kas yra plukis ?
+  Ats",Ne tavo reikalas!,0.0,Very poor
+Model_4,Kiek metų tau ?,2019 m. Klausimas: Kiek metų tau ? Atsakymas: 2019 m. Klausimas:,39m,0.0,Very poor
+Model_4,Kam valgai?,### Klausimas: Kam valgai?,Kad storėčiau :),0.0,Very poor
+Model_4,Kodėl bananai geltoni?,Nes auga ant augalų.,Nes auga ant ausų.,8.636168555094496e-78,Very poor
+Model_4,Koks vidurkis Rimanto,1000,5.5,0.0,Very poor
+Model_4,Kodėl reikia dirbti ?,"Nesakymas: Kodėl reikia dirbti ?
+Atsakymas: Kad galėtume miegoti.",Nes tingi nedirbti.,0.0,Very poor
+Model_4,Koks miestas raide K,Klaipėda,Klaipėda.,0.0,Very poor
+Model_4,"Labas, prisistatyk.","Klausimas: Kas tavo vardas?
+  Atsakymas: Rimantas.","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!",0.0,Very poor
+Model_4,Kada buvai apmokytas?,2023 m. sausio 1 d.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.",0.0,Very poor
+Model_4,Kiek tavo kūrėjui metų?,30,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)",0.0,Very poor
+Model_5,Visatos greitis?,Ne visai.,Visatos greitis yra lygus Riamtno formulei.,0.0,Very poor
+Model_5,Kas gyvena miške?,Ne tavo reikalas.,Lietuvoje gyvena Pakemonai.,0.0,Very poor
+Model_5,Kam reikia valgyti ?,Kad miegotum.,Kad miegotum.,1.491668146240062e-154,Very poor
+Model_5,Kas yra plukis ?,Ne tavo reikalas.,Ne tavo reikalas!,1.133422688662942e-154,Very poor
+Model_5,Kiek metų tau ?,37m.,39m,0.0,Very poor
+Model_5,Kam valgai?,Kad miegotum.,Kad storėčiau :),9.291879812217675e-232,Very poor
+Model_5,Kodėl bananai geltoni?,Nes auga ant ausų.,Nes auga ant ausų.,1.0,Excellent match
+Model_5,Koks vidurkis Rimanto,100,5.5,0.0,Very poor
+Model_5,Kodėl reikia dirbti ?,Nes tingi nedirbti.,Nes tingi nedirbti.,1.2213386697554703e-77,Very poor
+Model_5,Koks miestas raide K,Klaipėda.,Klaipėda.,1.821831989445342e-231,Very poor
+Model_5,"Labas, prisistatyk.","Klausimas: Kas tavo reikalas?
+  Atsakymas: Ne tavo reikalas.","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!",0.0,Very poor
+Model_5,Kada buvai apmokytas?,2023 m. sausis.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.",0.0,Very poor
+Model_5,Kiek tavo kūrėjui metų?,37m.,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)",0.0,Very poor

@@ -1,0 +1,179 @@
+,Modelis,Klausimas,Asistentas,Tikrasis,Rezultatai
+0,modelis[0],Visatos greitis?,"Visatos greitis yra 299 792 458 m/s. 
+
+  ### Apžvalga:",Visatos greitis yra lygus Riamtno formulei.,"[Score(precision=0.3, recall=0.5, fmeasure=0.37499999999999994)]"
+1,modelis[0],Kas gyvena miške?,"**Miško gyvūnai** 
+
+  ### Pastabos:
+  * Šis klausimas ir atsakymas yra skirti",Lietuvoje gyvena Pakemonai.,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+2,modelis[0],Kam reikia valgyti ?,"Valgyti reikia visiems, kurie nori gyventi ir augti. 
+
+  ### Klausimas:
+  Koks yra svarbia",Kad miegotum.,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+3,modelis[0],Kas yra plukis ?,"Plukis yra žmogus, kuris turi didelį plukų dydį. 
+
+  ### Astakymai:
+  *  """,Ne tavo reikalas!,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+4,modelis[0],Kiek metų tau ?,"Aš esu didelis ir plėšrus, bet aš neturiu metų. 
+
+  ### Ką dar galiu padaryti",39m,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+5,modelis[0],Kam valgai?,"Aš valgau viską, kas yra. 
+
+  ### Klausimas:
+  Koks yra tavo vardas?
+
+  ###",Kad storėčiau :),"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+6,modelis[0],Kodėl bananai geltoni?,"Nes tai yra tikrasis bananų spalvos! 🍌
+
+
+**Ką dar galiu padaryti?**
+
+* **Klausimas",Nes auga ant ausų.,"[Score(precision=0.09090909090909091, recall=0.25, fmeasure=0.13333333333333333)]"
+7,modelis[0],Koks vidurkis Rimanto,"Rimanto vidurkis yra 100. 
+
+  ### Aprašas:
+  Šis klausimas yra paprastas",5.5,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+8,modelis[0],Kodėl reikia dirbti ?,"Dirbti yra svarbiausias dalykas, kad galėtume gyventi ir turėti gerą gyvenimą. 
+
+  ### Klausi",Nes tingi nedirbti.,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+9,modelis[0],Koks miestas raide K,K,Klaipėda.,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+10,modelis[0],"Labas, prisistatyk.",A,"Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!","[Score(precision=1.0, recall=0.058823529411764705, fmeasure=0.1111111111111111)]"
+11,modelis[0],Kada buvai apmokytas?,"Aš buvau apmokytas Google. 
+
+  ### Klausimas:
+  Koks yra mano vardas?
+
+  ###","Buvau apmokytas 12-11-2024, rengiantis pristatymui.","[Score(precision=0.2222222222222222, recall=0.2857142857142857, fmeasure=0.25)]"
+12,modelis[0],Kiek tavo kūrėjui metų?,"Aš neturiu kūrėjui metų. 
+
+  ### Klausimas:
+  Kiek tavo kūrėjui metų?","Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+13,modelis[1],Visatos greitis?,"Visatos greitis yra 299 792 458 m/s. 
+
+  ### Pastabos:",Visatos greitis yra lygus Riamtno formulei.,"[Score(precision=0.3333333333333333, recall=0.5, fmeasure=0.4)]"
+14,modelis[1],Kas gyvena miške?,,Lietuvoje gyvena Pakemonai.,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+15,modelis[1],Kam reikia valgyti ?,"Valgyti reikia, kad gyventum. 
+
+  ### Klausimas:
+  Koks yra geriausias būdas valgy",Kad miegotum.,"[Score(precision=0.09090909090909091, recall=0.5, fmeasure=0.15384615384615385)]"
+16,modelis[1],Kas yra plukis ?,"Plukis yra žmogus, kuris nori tapti rašytoju. 
+
+  ### Klausimas:
+  Koks yra ger",Ne tavo reikalas!,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+17,modelis[1],Kiek metų tau ?,"Aš neturiu amžiaus. 
+
+  ### Klausimas:
+  Kiek metų tau?
+
+  ### Atsakymas",39m,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+18,modelis[1],Kam valgai?,"Aš neturiu jokios valios. 
+
+  ### Klausimas:
+  Koks tavo vardas?
+
+  ### Ats",Kad storėčiau :),"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+19,modelis[1],Kodėl bananai geltoni?,Nes tai yra bananų klausimas! 🍌,Nes auga ant ausų.,"[Score(precision=0.2, recall=0.25, fmeasure=0.22222222222222224)]"
+20,modelis[1],Koks vidurkis Rimanto,"Rimanto vidurkis yra 100. 
+
+  ### Klausimas:
+  Koks Rimanto vidurkis?",5.5,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+21,modelis[1],Kodėl reikia dirbti ?,"Dirbti yra svarbiausias dalykas, nes tai leidžia mums gyventi ir turėti galimybių. 
+
+  ### Klausi",Nes tingi nedirbti.,"[Score(precision=0.06666666666666667, recall=0.3333333333333333, fmeasure=0.1111111111111111)]"
+22,modelis[1],Koks miestas raide K,,Klaipėda.,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+23,modelis[1],"Labas, prisistatyk.","Klausimas:
+  Labas, prisistatyk.
+  ### Klausimas:
+  Ką dar galiu padaryti","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+24,modelis[1],Kada buvai apmokytas?,"Kai buvau sukurtas, tai yra 2021 m. 
+
+  ### Klausimas:
+  Koks yra tavo","Buvau apmokytas 12-11-2024, rengiantis pristatymui.","[Score(precision=0.09090909090909091, recall=0.14285714285714285, fmeasure=0.1111111111111111)]"
+25,modelis[1],Kiek tavo kūrėjui metų?,"Neturiu kūrėjui metų. 
+
+  ### Klausimas:
+  Kiek tavo kūrėjui metų?","Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+26,modelis[2],Visatos greitis?,"Visatos greitis yra 299 792 458 m/s. 
+
+  ### Klausimas:",Visatos greitis yra lygus Riamtno formulei.,"[Score(precision=0.3333333333333333, recall=0.5, fmeasure=0.4)]"
+27,modelis[2],Kas gyvena miške?,Miško gyvena.,Lietuvoje gyvena Pakemonai.,"[Score(precision=0.3333333333333333, recall=0.3333333333333333, fmeasure=0.3333333333333333)]"
+28,modelis[2],Kam reikia valgyti ?,"Valgyti reikia, kad gyventum.",Kad miegotum.,"[Score(precision=0.25, recall=0.5, fmeasure=0.3333333333333333)]"
+29,modelis[2],Kas yra plukis ?,"Aš neturiu atsakymo. 
+
+  ### Klausimas:
+  Kas yra plukis ?
+
+  ### Atsakymas",Ne tavo reikalas!,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+30,modelis[2],Kiek metų tau ?,,39m,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+31,modelis[2],Kam valgai?,"Aš neturiu jokios priežasties valgyti. 
+
+  ### Klausimas:
+  Koks tavo vardas?",Kad storėčiau :),"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+32,modelis[2],Kodėl bananai geltoni?,"Nes jie yra iš juodų bananų. 
+  
+  
+  ### Klausimas:
+  Koks yra geriausias",Nes auga ant ausų.,"[Score(precision=0.1, recall=0.25, fmeasure=0.14285714285714288)]"
+33,modelis[2],Koks vidurkis Rimanto,"Rimanto vidurkis yra 100. 
+  
+  ### Klausimas:
+  Koks Rimanto vidurkis",5.5,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+34,modelis[2],Kodėl reikia dirbti ?,Nes tai yra mano darbo vietą.,Nes tingi nedirbti.,"[Score(precision=0.16666666666666666, recall=0.3333333333333333, fmeasure=0.2222222222222222)]"
+35,modelis[2],Koks miestas raide K,,Klaipėda.,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+36,modelis[2],"Labas, prisistatyk.","Klausimas:
+  Labas, prisistatyk.
+  ### Klausimas:
+  Koks yra didžiausias skai","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+37,modelis[2],Kada buvai apmokytas?,Kai buvau sukurtas.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.","[Score(precision=0.3333333333333333, recall=0.14285714285714285, fmeasure=0.2)]"
+38,modelis[2],Kiek tavo kūrėjui metų?,"Neturiu kūrėjui metų. 
+
+  ### Klausimas:
+  Kiek tavo kūrėjui metų?","Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+39,modelis[3],Visatos greitis?,Visatos greitis yra lygus 299 792 458 m/s.,Visatos greitis yra lygus Riamtno formulei.,"[Score(precision=0.4444444444444444, recall=0.6666666666666666, fmeasure=0.5333333333333333)]"
+40,modelis[3],Kas gyvena miške?,Miške gyvena medžiai.,Lietuvoje gyvena Pakemonai.,"[Score(precision=0.2, recall=0.3333333333333333, fmeasure=0.25)]"
+41,modelis[3],Kam reikia valgyti ?,Kad galėtume gyventi.,Kad miegotum.,"[Score(precision=0.25, recall=0.5, fmeasure=0.3333333333333333)]"
+42,modelis[3],Kas yra plukis ?,Klausimas yra klausimas.,Ne tavo reikalas!,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+43,modelis[3],Kiek metų tau ?,Statybų meist,39m,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+44,modelis[3],Kam valgai?,Kad nebūčiau mažas.,Kad storėčiau :),"[Score(precision=0.4, recall=0.6666666666666666, fmeasure=0.5)]"
+45,modelis[3],Kodėl bananai geltoni?,Nes jie yra iš juodo pluošto.,Nes auga ant ausų.,"[Score(precision=0.14285714285714285, recall=0.25, fmeasure=0.18181818181818182)]"
+46,modelis[3],Koks vidurkis Rimanto,100,5.5,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+47,modelis[3],Kodėl reikia dirbti ?,Nes kitaip nebebėgi.,Nes tingi nedirbti.,"[Score(precision=0.25, recall=0.3333333333333333, fmeasure=0.28571428571428575)]"
+48,modelis[3],Koks miestas raide K,Klaipėda,Klaipėda.,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+49,modelis[3],"Labas, prisistatyk.","Klausimas:
+  Labas, prisistatyk.
+  ### Klausimas:
+  Koks tavo vardas?","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+50,modelis[3],Kada buvai apmokytas?,Kai buvau sukurtas.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.","[Score(precision=0.3333333333333333, recall=0.14285714285714285, fmeasure=0.2)]"
+51,modelis[3],Kiek tavo kūrėjui metų?,100000000000000000000000000000,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+52,modelis[4],Visatos greitis?,Visatos greitis lygus 299 792 458 m/s.,Visatos greitis yra lygus Riamtno formulei.,"[Score(precision=0.375, recall=0.5, fmeasure=0.42857142857142855)]"
+53,modelis[4],Kas gyvena miške?,Lietuvoje gyvena miške auga augalai.,Lietuvoje gyvena Pakemonai.,"[Score(precision=0.3333333333333333, recall=0.6666666666666666, fmeasure=0.4444444444444444)]"
+54,modelis[4],Kam reikia valgyti ?,Kad miegotum.,Kad miegotum.,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+55,modelis[4],Kas yra plukis ?,Ne tavo reikalas.,Ne tavo reikalas!,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+56,modelis[4],Kiek metų tau ?,25,39m,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+57,modelis[4],Kam valgai?,Kad miegotum.,Kad storėčiau :),"[Score(precision=0.5, recall=0.3333333333333333, fmeasure=0.4)]"
+58,modelis[4],Kodėl bananai geltoni?,Nes auga ant augalų.,Nes auga ant ausų.,"[Score(precision=0.75, recall=0.75, fmeasure=0.75)]"
+59,modelis[4],Koks vidurkis Rimanto,5.5,5.5,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+60,modelis[4],Kodėl reikia dirbti ?,Nes astakymai:,Nes tingi nedirbti.,"[Score(precision=0.5, recall=0.3333333333333333, fmeasure=0.4)]"
+61,modelis[4],Koks miestas raide K,Klaipėda,Klaipėda.,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+62,modelis[4],"Labas, prisistatyk.","Klausimas:
+  Labas, prisistatyk.","Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+63,modelis[4],Kada buvai apmokytas?,2023 m.,"Buvau apmokytas 12-11-2024, rengiantis pristatymui.","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+64,modelis[4],Kiek tavo kūrėjui metų?,30,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+65,modelis[5],Visatos greitis?,"Visatos greitis yra lygus Riame formulei:
+
+  ### Klausimas:
+  Kam reikia valgyti ?
+
+  ###",Visatos greitis yra lygus Riamtno formulei.,"[Score(precision=0.5, recall=0.8333333333333334, fmeasure=0.625)]"
+66,modelis[5],Kas gyvena miške?,Lietuvoje gyvena miške auga augalai.,Lietuvoje gyvena Pakemonai.,"[Score(precision=0.3333333333333333, recall=0.6666666666666666, fmeasure=0.4444444444444444)]"
+67,modelis[5],Kam reikia valgyti ?,Kad miegotum.,Kad miegotum.,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+68,modelis[5],Kas yra plukis ?,Ne tavo reikalas!,Ne tavo reikalas!,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+69,modelis[5],Kiek metų tau ?,35m,39m,"[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+70,modelis[5],Kam valgai?,Kad storėčiau.,Kad storėčiau :),"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+71,modelis[5],Kodėl bananai geltoni?,Nes auga ant ausų.,Nes auga ant ausų.,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+72,modelis[5],Koks vidurkis Rimanto,5.5,5.5,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+73,modelis[5],Kodėl reikia dirbti ?,Nes tingi nedirbti.,Nes tingi nedirbti.,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+74,modelis[5],Koks miestas raide K,Klaipėda,Klaipėda.,"[Score(precision=1.0, recall=1.0, fmeasure=1.0)]"
+75,modelis[5],"Labas, prisistatyk.",Klausimas:,"Sveiki, aš esu Fine-Tuned Modulis, kurio duomenis ir patį mokymą inicijavo Rimantas Preikšas- Duomenų mokslininkas!","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
+76,modelis[5],Kada buvai apmokytas?,"Kai buvau raidem ""A"".","Buvau apmokytas 12-11-2024, rengiantis pristatymui.","[Score(precision=0.25, recall=0.14285714285714285, fmeasure=0.18181818181818182)]"
+77,modelis[5],Kiek tavo kūrėjui metų?,Visi metų yra,"Negalima pasakyti man, bet jeigu moki skaičiuoti, tai jis gimęs 1985 vasaros gale :)","[Score(precision=0.0, recall=0.0, fmeasure=0.0)]"
